@@ -20,3 +20,4 @@ brew install python
 brew install python3
 brew install thefuck
 brew install the_silver_searcher
+brew install bash_completion
